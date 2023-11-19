@@ -1,0 +1,1 @@
+poetry run python -m streamlit run app.py --server.port=24000 --server.fileWatcherType=watchdog
